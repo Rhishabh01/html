@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(85, 207, 255);
+}
+
+p1{
+    background-color: rgb(87, 209, 240);
+}
+/* this is namebased */
+header{
+    background-color: rgb(255, 112, 171);
+}
+/* this is id */
+#color1{
+    background-color: rgb(35, 33, 155);
+}
+/* this is classs */
+.clor1{ 
+    background-color: rgb(136, 170, 190);
+}
